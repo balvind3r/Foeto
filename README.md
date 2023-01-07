@@ -1,1 +1,7 @@
-TinDog Starting Files
+Made by 
+~ Avneet singh
+~ Balvinder singh
+~ Nikita kanodia
+~ Ojas
+
+PPT available at:
